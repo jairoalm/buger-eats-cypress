@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Jairo Almeida",
+        "cpf": "95696331076",
+        "email": "jairo@bol.com.br",
+        "whatsapp": "8399885522",
+        "address": {
+            "postalcode": "58706362",
+            "street": "Rua América Palmeira dos Santos",
+            "number":"150",
+            "details": "Apto 01",
+            "district": "São Sebastião",
+            "city_state": "Patos/PB"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Henrique Almeida",
+        "cpf": "956963310we",
+        "email": "henriquealmeida@bol.com.br",
+        "whatsapp": "8399885522",
+        "address": {
+            "postalcode": "58706362",
+            "street": "Rua América Palmeira dos Santos",
+            "number":"150",
+            "details": "Apto 01",
+            "district": "São Sebastião",
+            "city_state": "Patos/PB"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"             
+    },
+    
+    "email_inv": {
+        "name": "Jairo Almeida",
+        "cpf": "95696331076",
+        "email": "jairo.com.br",
+        "whatsapp": "8399885522",
+        "address": {
+               "postalcode": "58706362",
+                "street": "Rua América Palmeira dos Santos",
+                "number":"150",
+                "details": "Apto 01",
+                "district": "São Sebastião",
+                "city_state": "Patos/PB"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}

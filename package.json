@@ -1,0 +1,20 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação do app NugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "\"Jairo Almeida\"",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.3",
+    "cypress-dark": "^1.8.0",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3"
+  },
+  "dependencies": {
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
